@@ -1,0 +1,13 @@
+D:\Sql\QuanLi100\QuanLi100\bin\Debug\QuanLi100.exe.config
+D:\Sql\QuanLi100\QuanLi100\bin\Debug\QuanLi100.exe
+D:\Sql\QuanLi100\QuanLi100\bin\Debug\QuanLi100.pdb
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.csproj.AssemblyReference.cache
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.Formdangnhap.resources
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.fromuser.resources
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.fromadmin.resources
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.Properties.Resources.resources
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.csproj.GenerateResource.cache
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.csproj.CoreCompileInputs.cache
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.exe
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.pdb
+D:\Sql\QuanLi100\QuanLi100\obj\Debug\QuanLi100.Formtim.resources
